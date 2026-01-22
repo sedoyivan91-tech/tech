@@ -1,4 +1,7 @@
 
-@@||cdninstagram.com^
-@@||fbcdn.net^
-@@||instagram.com^
+||instagram.com^
+||*.instagram.com^
+||cdninstagram.com^
+||*.cdninstagram.com^
+||fbcdn.net^
+||*.fbcdn.net^
