@@ -1,7 +1,17 @@
+# Instagram API и комментарии
+@@||instagram.com^$important
+@@||*.instagram.com^$important
+@@||graph.instagram.com^
+@@||*.graph.instagram.com^
+@@||i.instagram.com^
+@@||*.i.instagram.com^
+@@||cdninstagram.com^
+@@||*.cdninstagram.com^
 
-||instagram.com^
-||*.instagram.com^
-||cdninstagram.com^
-||*.cdninstagram.com^
-||fbcdn.net^
-||*.fbcdn.net^
+# Facebook инфраструктура (Instagram принадлежит Facebook)
+@@||facebook.com^
+@@||*.facebook.com^
+@@||fb.com^
+@@||*.fb.com^
+@@||fbcdn.net^
+@@||*.fbcdn.net^
